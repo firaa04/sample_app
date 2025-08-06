@@ -4,7 +4,7 @@
     android:layout_width="match_parent"
     android:layout_height="match_parent"
     tools:context=".MainActivity"
-    android:background="@drawable/jgjg">
+    android:background="@drawable/bacc">
 
     <ImageView
         android:id="@+id/id"
@@ -54,7 +54,7 @@
         android:layout_height="wrap_content"
         android:layout_below="@id/pass"
         android:layout_marginTop="10dp"
-        android:backgroundTint="#DA9BAB"
+        android:backgroundTint="#9F5D7B"
         android:layout_marginLeft="90dp"
         android:text="Log In" />
 </RelativeLayout>
